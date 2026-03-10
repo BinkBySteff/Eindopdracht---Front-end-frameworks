@@ -76,18 +76,14 @@ Bronnen:
 - https://uxfactor.nl/10-vuistregels-voor-gebruiksvriendelijkheid/
 - https://www.ilionx.com/themas/digitale-toegankelijkheid/
 
-Security
-
+# Security
 Binnen dit prototype zijn beperkte beveiligingsmaatregelingen toegepast. De applicatie haalt inspectiegegevens op via een JSON Web API. Omdat het om een prototype gaat zonder gebruikersaccounts of gevoelige gegevens, is geen authenticatie of extra beveiliging toegevoegd. In een echte applicatie zouden maatregelen nodig zijn, zoals gebruikersauthenticatie.
 
-Usability
-
+# Usability
 Bij het ontwerp van de interface is gekeken naar enkele heuristieken van Jakob Nielsen. Zo toont het dashboard direct het aantal openstaande en afgeronde inspecties. Daarnaast is gekozen voor een eenvoudige navigatiestructuur. In de applicatie is rekening gehouden met een toolbar onderaan het scherm. Via deze toolbar kunnen gebruikers eenvoudig terugkeren naar het dashboard. De knop ‘Terug’, die tevens onderaan het scherm staat, geeft gebruikers altijd de mogelijkheid om een pagina te verlaten wanneer zij op een scherm terechtkomen waar zij niet willen zijn. Hierdoor blijft de navigatie overzichtelijk en duidelijk voor de gebruiker.
 
-Accessibility
-
+# Accessibility
 Bij de ontwikkeling is deels rekening gehouden met toegankelijkheid. Zo zijn duidelijke iconen gebruikt en zijn knoppen, teksten en andere elementen overal in de app hetzelfde vormgegeven. Toch zijn nog niet alle toegankelijkheidsaspecten uitgewerkt, zoals ondersteuning voor schermlezers of uitgebreide toetsenbordnavigatie. Tevens werkt de donkere modus en notificatie in deze versie niet.
 
-Style guides en best practices
-
+# Style guides en best practices
 Tijdens de ontwikkeling zijn de basispunten van Vue gevolgd. De applicatie is opgebouwd uit onderdelen en heeft een duidelijke structuur met aparte mappen voor views, components, services en stores. Voor het beheren van de gegevens wordt gebruikgemaakt van Pinia.
