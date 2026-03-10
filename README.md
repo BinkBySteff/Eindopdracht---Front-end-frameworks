@@ -73,8 +73,8 @@ Inspectiegegevens worden opgehaald via een JSON API die via GitHub gehost wordt.
 Bij het ontwikkelen van deze applicatie is rekening gehouden met enkele basispunten voor gebruiksvriendelijkheid en toegankelijkheid. Hierbij zijn onder andere de heuristieken van Jakob Nielsen gebruikt als richtlijn. Deze vuistregels beschrijven hoe een interface duidelijk en logisch kan worden opgebouwd. Daarnaast is gekeken naar de richtlijnen voor digitale toegankelijkheid volgens WCAG 2.1.
 
 Bronnen:
-https://uxfactor.nl/10-vuistregels-voor-gebruiksvriendelijkheid/
-https://www.ilionx.com/themas/digitale-toegankelijkheid/
+- https://uxfactor.nl/10-vuistregels-voor-gebruiksvriendelijkheid/
+- https://www.ilionx.com/themas/digitale-toegankelijkheid/
 
 Security
 
