@@ -46,7 +46,6 @@ Wordt gebruikt om inspectiegegevens op te halen uit een extern JSON-bestand.
 Om de applicatie lokaal te starten moeten eerst de onderdelen worden geïnstalleerd:
 
 - npm install
-Daarna kan de ontwikkelserver worden gestart.
 
 - npm run dev
 
